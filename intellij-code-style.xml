@@ -1,0 +1,27 @@
+<code_scheme name="Project copy" version="173">
+  <option name="RIGHT_MARGIN" value="140" />
+  <JSCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </JSCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </JetCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="0" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="0" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="0" />
+  </PostgresCodeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </codeStyleSettings>
+</code_scheme>

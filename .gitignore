@@ -1,0 +1,8 @@
+.idea/*
+*.iml
+.DS_Store
+dist/*
+locale/_build/*
+locale/**/*.js
+src/config.js
+node_modules/*
